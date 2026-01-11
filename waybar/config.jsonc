@@ -13,13 +13,16 @@
         "wlr/taskbar",
         "dwl/window"
     ],
+    "modules-center": [
+        "cava" 
+    ],
     "modules-right": [
         "tray",
         "network",
         "pulseaudio",
         "cpu",
         "temperature",
-        "backlight",
+        // "backlight",
         "clock",
         "custom/notification",
         "custom/power"
